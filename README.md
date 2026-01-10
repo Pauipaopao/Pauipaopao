@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+(I will update my old high school repos soon...)
 <!--
 **Pauipaopao/Pauipaopao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
