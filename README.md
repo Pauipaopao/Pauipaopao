@@ -1,5 +1,5 @@
-## Hi there 👋
-(I will update my old high school repos soon...)
+## Hi there 👋 Welcome! :D
+I'm a CS student in my first year of uni and this is where I will share my side projects (when I have the time...)
 <!--
 **Pauipaopao/Pauipaopao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
